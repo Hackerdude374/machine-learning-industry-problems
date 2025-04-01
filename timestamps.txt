@@ -2,3 +2,7 @@ https://gale.udemy.com/course/machine-learning-practical/learn/lecture/11789772#
 
 
 test
+
+Breast Cancer Classification 4/1/2025
+
+7 Data visalization
